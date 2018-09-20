@@ -28,7 +28,7 @@
       "name": "typicode"
     },
     {
-      name : 't'
+      "name" : "t"
     }
   ]
 }
